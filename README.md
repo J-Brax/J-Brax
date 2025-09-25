@@ -1,24 +1,29 @@
 <!-- Dynamic Header -->
-<h1 align="center">👋 Hi there, I'm Johnn Brachuz (aka Brax)</h1>
-<h3 align="center">💻 Aspiring Software Engineer | Full-Stack & QA Automation Enthusiast</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4F46E5">Johnn Brachuz</span> — aka <strong>Brax</strong></h1>
+<h3 align="center">💻 Aspiring Software Engineer | Full-Stack Dev & QA Automation Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+in+the+making;Passionate+about+building+impactful+software" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=750&color=4F46E5&lines=Welcome+to+my+GitHub+Universe!;Full-Stack+Developer+in+the+making;Passionate+about+building+impactful+software;Lifelong+learner+and+problem+solver" alt="Typing SVG">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍🚀 About Me
 
-🎓 I'm **Johnn Brachuz**, a recent **Computer Engineering graduate** passionate about creating impactful software and continuously improving my craft.  
-💡 I aspire to become a **software engineer**, with a focus on **web development**, **full-stack engineering**, **frontend**, and **QA automation**.  
-🎯 My mission is to land a job I truly enjoy, perform exceptionally, and build a financially stable future that enables me to pursue the things I love.
+> 🌱 “Code is more than syntax — it's how we shape the future.”
+
+I'm **Johnn Brachuz**, a passionate **Computer Engineering graduate** with a deep curiosity for how software transforms ideas into reality.  
+I love solving real-world problems through **full-stack web development**, crafting smooth **frontend experiences**, and ensuring top-notch quality with **QA automation**.
+
+🎯 **Mission:** Land a role that challenges me, fuels my passion, and builds a stable future — all while creating software that *matters*.
+
+⚡ **Fun fact:** I love breaking things just to fix them again — that's how I learn best.
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Arsenal
 
-Here are the languages and tools I've worked with:
+Here’s what I’ve been crafting with:
 
 ### 🧠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -57,39 +62,42 @@ Here are the languages and tools I've worked with:
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Highlighted Projects
 
-### 🏫 [School-Based Management System](https://github.com/J-Brax/School-Based-Management-System-App)
-A full-stack web app for managing school operations — built with **Next.js (TypeScript)**, **TailwindCSS**, and **Prisma + PostgreSQL**.
+🚀 **[School-Based Management System](https://github.com/J-Brax/School-Based-Management-System-App)**  
+📚 A comprehensive platform to streamline school operations — built with **Next.js (TypeScript)**, **TailwindCSS**, and **Prisma + PostgreSQL**.
 
-### 🧠 [Simon Game](https://github.com/J-Brax/Brax-Simon-Game)
-A classic Simon memory game built with **React + Vite**.
+🧠 **[Simon Game](https://github.com/J-Brax/Brax-Simon-Game)**  
+🎮 A nostalgic memory challenge reinvented with **React + Vite**.
 
-### ✅ [To-Do List App](https://github.com/J-Brax/Brax-Vite-React-To-Do-List-App)
-A simple and responsive task management app built with **Vanilla Javascript + HTML + CSS**.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Brax&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Brax&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Brax&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+✅ **[To-Do List App](https://github.com/J-Brax/Brax-Vite-React-To-Do-List-App)**  
+🗂️ A lightweight yet powerful task manager built with **Vanilla JS + HTML + CSS**.
 
 ---
 
-## 📫 Let's Connect!
+## 📊 GitHub Stats & Analytics
 
-📧 **Email:** [johnnbrachuzm@gmail.com](mailto:johnnbrachuzm@gmail.com)  
-💼 **LinkedIn:** [Johnn Brachuz Manda](https://www.linkedin.com/in/johnn-brachuz-manda-738b05280/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Brax&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Brax&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Brax&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:johnnbrachuzm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/johnn-brachuz-manda-738b05280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/J-Brax"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
