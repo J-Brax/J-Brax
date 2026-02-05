@@ -62,35 +62,6 @@ Here’s what I’ve been crafting with:
 
 ---
 
-## 🌟 Highlighted Projects
-
-🚀 **[School-Based Management System](https://github.com/J-Brax/School-Based-Management-System-App)**  
-📚 A comprehensive platform to streamline school operations — built with **Next.js (TypeScript)**, **TailwindCSS**, and **Prisma + PostgreSQL**.
-
-🧠 **[Simon Game](https://github.com/J-Brax/Brax-Simon-Game)**  
-🎮 A nostalgic memory challenge reinvented with **React + Vite**.
-
-✅ **[To-Do List App](https://github.com/J-Brax/Brax-Vite-React-To-Do-List-App)**  
-🗂️ A lightweight yet powerful task manager built with **Vanilla JS + HTML + CSS**.
-
----
-
-## 📊 GitHub Stats & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Brax&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Brax&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Brax&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
